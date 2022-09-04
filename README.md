@@ -1,4 +1,4 @@
-# feup-sdle
+# feup-ac
  
 This project was created during the **1st semester** of the **1st year** of the **Master in Informatics and Computing Engineering**, in **Machine Learning** curricular unity (FEUP).
 
